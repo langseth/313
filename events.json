@@ -1,0 +1,1140 @@
+{
+	"Recent": [
+		{
+			"Recent": {
+				"event_description": "Recent mode allows the user to view the previous 72 hours of data, from the current time."
+			}
+		}
+	],
+	"Colorado": [
+		{
+			"2019-11-25": {
+				"event_description": "N/A",
+				"start": 1574679600,
+				"end": 1574880600
+			}
+		},
+		{
+			"2019-10-29": {
+				"event_description": "N/A",
+				"start": 1572300000,
+				"end": 1572515400
+			}
+		},
+		{
+			"2019-04-10": {
+				"event_description": "Late season blizzard brings heavy snow to the mountains and several inches to the Front Range and High Plains",
+				"start": 1554847200,
+				"end": 1555077000
+			}
+		},
+		{
+			"2019-02-14": {
+				"event_description": "Heavy snowfall in western Colorado brought over one foot of snow to the higher elevations",
+				"start": 1550062800,
+				"end": 1550407800
+			}
+		},
+		{
+			"2019-02-06": {
+				"event_description": "Half a foot of heavy snowfall in the Denver area",
+				"start": 1549398600,
+				"end": 1549603200
+			}
+		},
+		{
+			"2019-01-23": {
+				"event_description": "Snow and wind event along the front range",
+				"start": 1548273600,
+				"end": 1548355800
+			}
+		},
+		{
+			"2019-01-21": {
+				"event_description": "Winter storm brings heavy snow of over a foot to mountains west of Denver",
+				"start": 1548046800,
+				"end": 1548255000
+			}
+		},
+		{
+			"2018-11-30": {
+				"event_description": "Snow and strongs winds of over 40 mph in eastern Colorado",
+				"start": 1543546800,
+				"end": 1543805400
+			}
+		},
+		{
+			"2018-11-11": {
+				"event_description": "Winter storm brings heavy snowfall to Denver metro area",
+				"start": 1541847600,
+				"end": 1542077400
+			}
+		},
+		{
+			"2018-04-06": {
+				"event_description": "Winter storm brings a foot of snow to mountains west of Denver with a couple of inches in eastern Colorado",
+				"start": 1522998000,
+				"end": 1523123400
+			}
+		},
+		{
+			"2018-03-28": {
+				"event_description": "Alternate cycle time testing",
+				"start": 1522195200,
+				"end": 1522281000
+			}
+		},
+		{
+			"2018-01-20": {
+				"event_description": "Winter storm brings heavy snow east of the Rockies",
+				"start": 1516452600,
+				"end": 1516647000
+			}
+		},
+		{
+			"2017-11-17": {
+				"event_description": "Winter storm brings snow to areas west of I-25",
+				"start": 1510930800,
+				"end": 1511031000
+			}
+		},
+		{
+			"2017-10-09": {
+				"event_description": "October blizzard brings 5-10 inches of snow to Denver and south along I-25",
+				"start": 1507507200,
+				"end": 1507611000
+			}
+		},
+		{
+			"2017-10-01": {
+				"event_description": "Early season system brings snow to the northwestern quarter of the state",
+				"start": 1506880800,
+				"end": 1507103400
+			}
+		},
+		{
+			"2017-02-01": {
+				"event_description": "Freezing drizzle/rain event affects metro areas",
+				"start": 1485936000,
+				"end": 1486090200
+			}
+		}
+	],
+	"Indiana": [
+		{
+			"2019-12-30": {
+				"event_description": "N/A",
+				"start": 1577721600,
+				"end": 1577836200
+			}
+		},
+		{
+			"2018-11-25": {
+				"event_description": "Large storm system that moved through Illinois and northern Indiana. Precipitation started as rain and switched over to snow Sunday. Lake effect snow impacted the region on the back side of the larger system, Monday afternoon into Tuesday.",
+				"start": 1543163400,
+				"end": 1543359000
+			}
+		},
+		{
+			"2018-11-15": {
+				"event_description": "Early season rain/freezing rain/snow event for the entire state. Precipitation moved in from the south and west in the late evening and early morning hours of Wednesday Night and Thursday Morning. Pavement temperatures were around freezing during much of the event",
+				"start": 1542157200,
+				"end": 1542372600
+			}
+		},
+		{
+			"2018-03-08": {
+				"event_description": "Scattered snow showers and snow squalls impact the region",
+				"start": 1520445600,
+				"end": 1520563800
+			}
+		},
+		{
+			"2018-03-05": {
+				"event_description": "Several rounds of precipitation impact the state with rain, snow, and light freezing rain all present during the event",
+				"start": 1520254800,
+				"end": 1520441400
+			}
+		},
+		{
+			"2018-02-08": {
+				"event_description": "Major snowstorm with sharp snow gradient hits the north",
+				"start": 1518094800,
+				"end": 1518303000
+			}
+		},
+		{
+			"2018-02-06": {
+				"event_description": "Several inches of snow in the north with freezing rain changing to light snow in the south",
+				"start": 1517922000,
+				"end": 1518043800
+			}
+		},
+		{
+			"2018-02-04": {
+				"event_description": "System brings light snow to the state. Several inches of lake-effect snow in the northwest with little to no accumulation elsewhere",
+				"start": 1517761800,
+				"end": 1517847600
+			}
+		},
+		{
+			"2017-12-09": {
+				"event_description": "Clipper system brings 3-5 inches of snow across the north, 1-2 inches in other areas",
+				"start": 1512712800,
+				"end": 1512903000
+			}
+		},
+		{
+			"2016-12-16": {
+				"event_description": "Freezing rain event with snow at the end of the event across much of the state. Very low temps following the event.",
+				"start": 1481896800,
+				"end": 1482112200
+			}
+		},
+		{
+			"2016-02-14": {
+				"event_description": "System drops a quick couple inches of snow across much of the state.",
+				"start": 1455429600,
+				"end": 1455526200
+			}
+		},
+		{
+			"2015-02-21": {
+				"event_description": "Mixed precip types in the south, light to moderate snow across the rest of the state",
+				"start": 1424462400,
+				"end": 1424559000
+			}
+		},
+		{
+			"2015-02-16": {
+				"event_description": "Moderate snow across southern Indiana.",
+				"start": 1423980000,
+				"end": 1424145000
+			}
+		},
+		{
+			"2015-01-11": {
+				"event_description": "Mainly snow in the north, mainly rain in the south, and a mixture of precipitation types in between",
+				"start": 1420956000,
+				"end": 1421110200
+			}
+		}
+	],
+	"Kentucky": [
+		{
+			"2018-01-11": {
+				"event_description": "Strong system leads with rain, followed by a period of freezing rain, then snow and cold air",
+				"start": 1515718800,
+				"end": 1515901800
+			}
+		},
+		{
+			"2015-02-16": {
+				"event_description": "Moderate to heavy snow across the state",
+				"start": 1424034000,
+				"end": 1424163000
+			}
+		}
+	],
+	"Maryland":[
+		{
+			"2019-01-12": {
+				"event_description": "Heavy snowfall across Maryland with areas around DC receiving over 6 in of snow",
+				"start": 1547240400,
+				"end": 1547506200
+			}
+		},
+		{
+			"2018-11-15": {
+				"event_description": "Early season storm with mixed precip types across the north and metro areas",
+				"start": 1542243600,
+				"end": 1542415800
+			}
+		},
+		{
+			"2018-09-14": {
+				"event_description": "Hurricane Florence",
+				"start": 1536876000,
+				"end": 1537221000
+			}
+		},
+		{
+			"2017-01-10": {
+				"event_description": "Rain event with pavements near and below freezing west of I-95",
+				"start": 1484060400,
+				"end": 1484146200
+			}
+		},
+		{
+			"2016-09-01": {
+				"event_description": "Tropical Storm Hermine grazes eastern Maryland",
+				"start": 1472727600,
+				"end": 1472943000
+			}
+		},
+		{
+			"2015-02-21": {
+				"event_description": "Storm brings heavy snow to the region before precipitation transitions to rain",
+				"start": 1424498400,
+				"end": 1424620200
+			}
+		}
+	],
+	"Michigan":[
+		{
+			"2020-01-11": {
+				"event_description": "N/A",
+				"start": 1578754800,
+				"end": 1578865800
+			}
+		},
+		{
+			"2019-12-17": {
+				"event_description": "Light snow event overnight across the LP with continuous lake effect snow across much of the western LP and UP",
+				"start": 1576598400,
+				"end": 1576705800
+			}
+		},
+		{
+			"2019-11-11": {
+				"event_description": "N/A",
+				"start": 1573484400,
+				"end": 1573635000
+			}
+		},
+		{
+			"2019-01-22": {
+				"event_description": "Heavy snowfall event brings over a foot of snow to central Michigan",
+				"start": 1548162000,
+				"end": 1548291000
+			}
+		},
+		{
+			"2019-01-19": {
+				"event_description": "Heavy snowfall event across southern Michigan",
+				"start": 1547859600,
+				"end": 1547988600
+			}
+		},
+		{
+			"2018-06-17": {
+				"event_description": "Heavy rainfall event",
+				"start": 1529150400,
+				"end": 1529272200
+			}
+		},
+		{
+			"2018-03-26": {
+				"event_description": "Alternate cycle time testing",
+				"start": 1522080000,
+				"end": 1522144200
+			}
+		},
+		{
+			"2018-02-09": {
+				"event_description": "Major snowstorm hits the south",
+				"start": 1518190200,
+				"end": 1518276000
+			}
+		},
+		{
+			"2018-01-01": {
+				"event_description": "Lake-effect snow event",
+				"start": 1514761200,
+				"end": 1514911800
+			}
+		},
+		{
+			"2017-12-27": {
+				"event_description": "Lake-effect snow event",
+				"start": 1514329200,
+				"end": 1514440200
+			}
+		},
+		{
+			"2016-12-08": {
+				"event_description": "Lake-effect snow event that reached many inland areas",
+				"start": 1481166000,
+				"end": 1481302200
+			}
+		},
+		{
+			"2015-01-29": {
+				"event_description": "System brings snow to most of the state, followed by very strong winds and lake-effect snow",
+				"start": 1422493200,
+				"end": 1422589800
+			}
+		},
+		{
+			"2015-01-08": {
+				"event_description": "Snowy, windy, and cold system moves through the state with lake-effect snow on the back side",
+				"start": 1420696800,
+				"end": 1420822200
+			}
+		}
+	],
+	"Minnesota":[
+		{
+			"2020-01-23": {
+				"event_description": "N/A",
+				"start": 1579788000,
+				"end": 1579913400
+			}
+		},
+		{
+			"2019-12-28": {
+				"event_description": "N/A",
+				"start": 1577484000,
+				"end": 1577811000
+			}
+		},
+		{
+			"2019-12-09": {
+				"event_description": "N/A",
+				"start": 1575813600,
+				"end": 1575949800
+			}
+		},
+		{
+			"2019-11-30": {
+				"event_description": "N/A",
+				"start": 1575043200,
+				"end": 1575301800
+			}
+		},
+		{
+			"2019-11-27": {
+				"event_description": "N/A",
+				"start": 1574776800,
+				"end": 1574887800
+			}
+		},
+		{
+			"2019-11-20": {
+				"event_description": "N/A",
+				"start": 1574197200,
+				"end": 1574369400
+			}
+		},
+		{
+			"2019-11-13": {
+				"event_description": "N/A",
+				"start": 1573588800,
+				"end": 1573739400
+			}
+		},
+		{
+			"2019-03-13": {
+				"event_description": "Blizzard brings in strong winds and heavy snow across northwest and west central Minnesota",
+				"start": 1552456800,
+				"end": 1552697400
+			}
+		},
+		{
+			"2019-03-09": {
+				"event_description": "System brings over one foot of heavy snow to northwest Minnesota",
+				"start": 1552089600,
+				"end": 1552272600
+			}
+		},
+		{
+			"2019-02-23": {
+				"event_description": "Winter storm with rain switching to freezing rain and snow moved northeast across eastern Minnesota",
+				"start": 1550851200,
+				"end": 1551117000
+			}
+		},
+		{
+			"2018-12-27": {
+				"event_description": "Rain followed by heavy snow and strong winds across western and central Minnesota",
+				"start": 1545847200,
+				"end": 1546105800
+			}
+		},
+		{
+			"2018-12-12": {
+				"event_description": "Freezing rain event across western Minnesota",
+				"start": 1544648400,
+				"end": 1544734200
+			}
+		},
+		{
+			"2018-11-16": {
+				"event_description": "Heavy snowfall and strong winds across western and southwestern Minnesota including the Twin Cities metro",
+				"start": 1542344400,
+				"end": 1542477000
+			}
+		},
+		{
+			"2018-10-10": {
+				"event_description": "Early season snow fall with heavy accumulations across the northern half of the state",
+				"start": 1539126000,
+				"end": 1539312600
+			}
+		}
+	],
+	"Missouri": [
+		{
+			"2020-01-10": {
+				"event_description": "N/A",
+				"start": 1578618000,
+				"end": 1578833400
+			}
+		}
+	],
+	"Nebraska": [
+		{
+			"2020-01-17": {
+				"event_description": "N/A",
+				"start": 1579273200,
+				"end": 1579366200
+			}
+		},
+		{
+			"2020-01-11": {
+				"event_description": "N/A",
+				"start": 1578673800,
+				"end": 1578941400
+			}
+		},
+		{
+			"2019-12-31": {
+				"event_description": "N/A",
+				"start": 1577754000,
+				"end": 1577839800
+			}
+		},
+		{
+			"2019-12-27": {
+				"event_description": "N/A",
+				"start": 1577466000,
+				"end": 1577753400
+			}
+		},
+		{
+			"2019-12-14": {
+				"event_description": "N/A",
+				"start": 1576256400,
+				"end": 1576515000
+			}
+		},
+		{
+			"2019-10-30": {
+				"event_description": "Example of two different road condition reports on a single route causing some indecision in the MDSS recommendations. 720 - US6-McCook to Jct. Hwy47",
+				"start": 1572397200,
+				"end": 1572483000
+			}
+		},
+		{
+			"2019-03-13": {
+				"event_description": "Blizzard across northern Nebraska with strong winds causes blowing snow on the roads",
+				"start": 1552431600,
+				"end": 1552776600
+			}
+		},
+		{
+			"2019-02-22": {
+				"event_description": "Winter storm in western Nebraska brings almost two feet of snow to the area",
+				"start": 1550790000,
+				"end": 1551153000
+			}
+		},
+		{
+			"2019-02-19": {
+				"event_description": "Freezing drizzle followed by snow moved northwest across the state",
+				"start": 1550516400,
+				"end": 1550721000
+			}
+		},
+		{
+			"2019-02-15": {
+				"event_description": "Heavy snowfall in northern and central Nebraska",
+				"start": 1550188800,
+				"end": 1550512200
+			}
+		},
+		{
+			"2019-02-11": {
+				"event_description": "System brings over a foot of snow to parts of eastern Nebraska followed by strong winds",
+				"start": 1549767600,
+				"end": 1550015400
+			}
+		},
+		{
+			"2019-01-26": {
+				"event_description": "Rain and snow along north and east Nebraska",
+				"start": 1548455400,
+				"end": 1548633000
+			}
+		},
+		{
+			"2019-01-22": {
+				"event_description": "Freezing rain event near Omaha and Lincoln",
+				"start": 1547980200,
+				"end": 1548298200
+			}
+		},
+		{
+			"2019-01-18": {
+				"event_description": "Snow and freezing rain along eastern Nebraska",
+				"start": 1547825400,
+				"end": 1548024600
+			}
+		},
+		{
+			"2019-01-11": {
+				"event_description": "Snow in south and southeast Nebraska",
+				"start": 1547208000,
+				"end": 1547416200
+			}
+		},
+		{
+			"2018-12-26": {
+				"event_description": "Up to a foot of snow and strong winds across central Nebraska",
+				"start": 1545721200,
+				"end": 1546123800
+			}
+		},
+		{
+			"2018-12-01": {
+				"event_description": "Rain switching to snow brought over a foot to Omaha",
+				"start": 1543600800,
+				"end": 1543906200
+			}
+		},
+		{
+			"2018-11-24": {
+				"event_description": "Blowing snow and blizzard conditions around Lincoln and Omaha",
+				"start": 1542996000,
+				"end": 1543254600
+			}
+		},
+		{
+			"2018-11-17": {
+				"event_description": "Heavy snow in western Nebraska with rain in Lincoln area",
+				"start": 1542391200,
+				"end": 1542649800
+			}
+		},
+		{
+			"2018-11-08": {
+				"event_description": "Snow moves across southern and western NE midweek; snow squall affects metro to end the week",
+				"start": 1541556000,
+				"end": 1541814600
+			}
+		},
+		{
+			"2018-10-14": {
+				"event_description": "Early-season system brings moderate snow to much of the state, then slows and intensifies over portions of eastern Nebraska",
+				"start": 1539428400,
+				"end": 1539589800
+			}
+		},
+		{
+			"2018-04-13": {
+				"event_description": "Late-season blizzard brings heavy snow to all but southeastern Nebraska",
+				"start": 1523624400,
+				"end": 1523850600
+			}
+		},
+		{
+			"2018-02-23": {
+				"event_description": "Swath of snow in central Nebraska with wintry mix in southeast",
+				"start": 1519246800,
+				"end": 1519440600
+			}
+		},
+		{
+			"2018-02-20": {
+				"event_description": "Several inches of snow affects the northwestern half of the state",
+				"start": 1519018200,
+				"end": 1519190400
+			}
+		},
+		{
+			"2018-02-10": {
+				"event_description": "Southern areas see a few inches of snow",
+				"start": 1518220800,
+				"end": 1518393000
+			}
+		},
+		{
+			"2018-02-06": {
+				"event_description": "Light snow in southern Nebraska",
+				"start": 1517898600,
+				"end": 1518067200
+			}
+		},
+		{
+			"2018-02-04": {
+				"event_description": "Light rain in the west transitions to light snow for most of the region",
+				"start": 1517680800,
+				"end": 1517851200
+			}
+		},
+		{
+			"2018-01-21": {
+				"event_description": "Winter storm brings heavy snow to much of west, central, and northeastern NE",
+				"start": 1516460400,
+				"end": 1516751400
+			}
+		},
+		{
+			"2017-12-25": {
+				"event_description": "The southern half of the state gets a few inches of snow",
+				"start": 1514160000,
+				"end": 1514443800
+			}
+		},
+		{
+			"2017-12-23": {
+				"event_description": "System brings several inches of snow to the state",
+				"start": 1513987200,
+				"end": 1514137800
+			}
+		},
+		{
+			"2017-12-21": {
+				"event_description": "Western and north-central areas see a few inches of snow",
+				"start": 1513753200,
+				"end": 1513965000
+			}
+		},
+		{
+			"2017-04-30": {
+				"event_description": "Spring winter storm brings periods of heavy snow to the state",
+				"start": 1493409600,
+				"end": 1493668200
+			}
+		}
+	],
+	"NewHampshire": [
+		{
+			"2018-01-04": {
+				"event_description": "Significant winter storm moves up the east coast and brings heavy snow to much of the state",
+				"start": 1515020400,
+				"end": 1515207000
+			}
+		}
+	],
+	"NewJerseyTA": [
+		{
+			"2018-11-15": {
+				"event_description": "Early season snow storm, with heavy snow across northern New Jersey",
+				"start": 1542243600,
+				"end": 1542415800
+			}
+		}
+	],
+	"NorthDakota": [
+		{
+			"2019-03-13": {
+				"event_description": "Blizzard brings in strong winds and heavy snow across eastern North Dakota and the Red River Valley",
+				"start": 1552446000,
+				"end": 1552611000
+			}
+		},
+		{
+			"2019-03-09": {
+				"event_description": "System brings in over one foot of heavy snow to eastern North Dakota. Rain in the Red River Valley",
+				"start": 1552046400,
+				"end": 1552258200
+			}
+		},
+		{
+			"2018-12-11": {
+				"event_description": "Freezing rain and snow in eastern North Dakota",
+				"start": 1544497200,
+				"end": 1544622600
+			}
+		},
+		{
+			"2018-11-27": {
+				"event_description": "Freezing rain in north and northeast North Dakota",
+				"start": 1543269600,
+				"end": 1543513800
+			}
+		},
+		{
+			"2018-10-10": {
+				"event_description": "Early season snow fall with heavy accumulations across the Devils Lake, Grand Forks, Valley City, and Fargo Districts",
+				"start": 1539126000,
+				"end": 1539276600
+			}
+		},
+		{
+			"2018-03-04": {
+				"event_description": "Heavy snow and blizzard conditions impact the region",
+				"start": 1520146800,
+				"end": 1520358600
+			}
+		},
+		{
+			"2017-12-28": {
+				"event_description": "Areas of light snow and patchy blowing snow",
+				"start": 1514444400,
+				"end": 1514523000
+			}
+		},
+		{
+			"2017-12-04": {
+				"event_description": "Blizzard brings 3-5 inches of snow in the east",
+				"start": 1512345600,
+				"end": 1512496200
+			}
+		},
+		{
+			"2017-11-06": {
+				"event_description": "Periods of light to moderate snow across the state, particularly on Monday",
+				"start": 1509831000,
+				"end": 1510090200
+			}
+		},
+		{
+			"2017-03-06": {
+				"event_description": "Blizzard and high wind event",
+				"start": 1488783600,
+				"end": 1488887400
+			}
+		},
+		{
+			"2016-12-05": {
+				"event_description": "Major snowstorm and long-duration blizzard hits the east",
+				"start": 1480924800,
+				"end": 1481133000
+			}
+		},
+		{
+			"2016-11-28": {
+				"event_description": "Winter storm brings snow to the western half of the state, rain then light snow later in the east",
+				"start": 1480230000,
+				"end": 1480528200
+			}
+		},
+		{
+			"2015-02-24": {
+				"event_description": "A couple periods of light snow",
+				"start": 1424656800,
+				"end": 1424839800
+			}
+		},
+		{
+			"2015-02-08": {
+				"event_description": "Rain with unseasonably warm air in the west transitions to freezing rain as cold air returns",
+				"start": 1423342800,
+				"end": 1423471800
+			}
+		}
+	],
+	"SouthDakota": [
+		{
+			"2019-04-10": {
+				"event_description": "Late season blizzard brings over a foot of snow to the north and east, with icy conditions in the southeast",
+				"start": 1554793200,
+				"end": 1555159800
+			}
+		},
+		{
+			"2019-03-13": {
+				"event_description": "Blizzard brings strong winds and over one foot of heavy snow to the Black Hills area",
+				"start": 1552446000,
+				"end": 1552611000
+			}
+		},
+		{
+			"2019-03-09": {
+				"event_description": "System brings heavy snow and rain to northwest South Dakota",
+				"start": 1552089600,
+				"end": 1552258200
+			}
+		},
+		{
+			"2018-12-31": {
+				"event_description": "Blowing snow and strong winds across southern South Dakota",
+				"start": 1546268400,
+				"end": 1546469400
+			}
+		},
+		{
+			"2018-06-27": {
+				"event_description": "Severe thunderstorm with hail",
+				"start": 1530118800,
+				"end": 1530204600
+			}
+		},
+		{
+			"2018-04-13": {
+				"event_description": "Historic late-season blizzard brings heavy snow to most of the state",
+				"start": 1523574000,
+				"end": 1523839800
+			}
+		},
+		{
+			"2018-04-03": {
+				"event_description": "Several inches of snow fall across the region",
+				"start": 1522630800,
+				"end": 1522810200
+			}
+		},
+		{
+			"2018-03-29": {
+				"event_description": "Alternate cycle time testing",
+				"start": 1522274400,
+				"end": 1522363800
+			}
+		},
+		{
+			"2018-03-04": {
+				"event_description": "Heavy snow and blizzard conditions impact mainly central and eastern areas",
+				"start": 1520164800,
+				"end": 1520380200
+			}
+		},
+		{
+			"2018-01-21": {
+				"event_description": "Winter storm brings heavy snow to portions of east-central and southeastern SD",
+				"start": 1516536000,
+				"end": 1516729800
+			}
+		},
+		{
+			"2017-12-04": {
+				"event_description": "Blizzard mainly across the east",
+				"start": 1512345600,
+				"end": 1512496200
+			}
+		},
+		{
+			"2016-03-23": {
+				"event_description": "Late March winter storm brings mixed precip, then moderate snow to SE",
+				"start": 1458684000,
+				"end": 1458813000
+			}
+		},
+		{
+			"2014-12-15": {
+				"event_description": "Snow and blowing snow mainly in southern and eastern South Dakota",
+				"start": 1418598000,
+				"end": 1418712600
+			}
+		}
+	],
+	"Virginia": [
+		{
+			"2019-12-22": {
+				"event_description": "N/A",
+				"start": 1576972800,
+				"end": 1577058600
+			}
+		},
+		{
+			"2019-11-16": {
+				"event_description": "N/A",
+				"start": 1573930800,
+				"end": 1574088600
+			}
+		},
+		{
+			"2018-12-09": {
+				"event_description": "Heavy snowfall of over a foot to southwest Virginia",
+				"start": 1544274000,
+				"end": 1544507400
+			}
+		},
+		{
+			"2018-09-14": {
+				"event_description": "Hurricane Florence",
+				"start": 1536876000,
+				"end": 1537221000
+			}
+		},
+		{
+			"2018-01-04": {
+				"event_description": "Strong nor'easter affects much of the east coast bringing a foot or more of snow to areas",
+				"start": 1514959200,
+				"end": 1515207000
+			}
+		},
+		{
+			"2015-02-21": {
+				"event_description": "Heavy snow impacts mainly western Virginia before transitioning to rain and ending",
+				"start": 1424462400,
+				"end": 1424609400
+			}
+		}
+	],
+	"Wisconsin": [
+		{
+			"2020-01-17": {
+				"event_description": "N/A",
+				"start": 1579280400,
+				"end": 1579413000
+			}
+		},
+		{
+			"2020-01-11": {
+				"event_description": "N/A",
+				"start": 1578675600,
+				"end": 1578876600
+			}
+		},
+		{
+			"2019-11-30": {
+				"event_description": "N/A",
+				"start": 1575072000,
+				"end": 1575157800
+			}
+		},
+		{
+			"2019-10-28": {
+				"event_description": "Early Season Storm, Warm Pavement",
+				"start": 1572260400,
+				"end": 1572367800
+			}
+		},
+		{
+			"2019-01-22": {
+				"event_description": "Mixed precipitation and snow along southern WI",
+				"start": 1548122400,
+				"end": 1548323400
+			}
+		},
+		{
+			"2019-01-18": {
+				"event_description": "Snow up to 8 inches along southern WI",
+				"start": 1547776800,
+				"end": 1547992200
+			}
+		},
+		{
+			"2018-04-14": {
+				"event_description": "Historic late-season blizzard brings heavy snow to central and northern Wisconsin",
+				"start": 1523610000,
+				"end": 1523937000
+			}
+		},
+		{
+			"2018-04-03": {
+				"event_description": "Statewide April snow",
+				"start": 1522666800,
+				"end": 1522860600
+			}
+		},
+		{
+			"2018-01-28": {
+				"event_description": "Freezing rain followed by snow across southern WI",
+				"start": 1516989600,
+				"end": 1517183400
+			}
+		},
+		{
+			"2018-01-22": {
+				"event_description": "Winter storm brings heavy snow to portions of west-central and northern WI",
+				"start": 1516536000,
+				"end": 1516729800
+			}
+		},
+		{
+			"2017-01-10": {
+				"event_description": "Heavy snow in the north with rain in southern Wisconsin",
+				"start": 1483988400,
+				"end": 1484225400
+			}
+		},
+		{
+			"2016-03-23": {
+				"event_description": "Late March winter storm brings moderate snow across much of WI",
+				"start": 1458716400,
+				"end": 1458877800
+			}
+		},
+		{
+			"2016-03-01": {
+				"event_description": "Moderate snow event brings 3-6 inches to much of southern Wisconsin",
+				"start": 1456754400,
+				"end": 1456876200
+			}
+		},
+		{
+			"2015-12-18": {
+				"event_description": "Light snow event",
+				"start": 1450447200,
+				"end": 1450533000
+			}
+		},
+		{
+			"2015-12-05": {
+				"event_description": "Frost event",
+				"start": 1449248400,
+				"end": 1449384600
+			}
+		}
+	],
+	"deldot-mxvantage": [
+		{
+			"2020-01-07": {
+				"event_description": "N/A",
+				"start": 1578412800,
+				"end": 1578505800
+			}
+		},
+		{
+			"2019-02-20": {
+				"event_description": "Winter storm brings around an inch of snow in the morning, transitions to rain in the afternoon",
+				"start": 1550624400,
+				"end": 1550753400
+			}
+		},
+		{
+			"2019-02-01": {
+				"event_description": "Moderate snow event brings 2-4 inches to much of the state",
+				"start": 1549004400,
+				"end": 1549090200
+			}
+		}
+	],
+	"Wyoming": [
+		{
+			"2019-03-13": {
+				"event_description": "Heavy snow and strong winds caused blizzard conditions in northeastern Wyoming",
+				"start": 1552442400,
+				"end": 1552650600
+			}
+		},
+		{
+			"2019-01-11": {
+				"event_description": "Snow event in Laramie and southwest WY",
+				"start": 1547175600,
+				"end": 1547319000
+			}
+		},
+		{
+			"2018-12-05": {
+				"event_description": "Heavy snowfall in Cheyenne with strong winds. Blowing snow north of Laramie",
+				"start": 1543978200,
+				"end": 1544151000
+			}
+		},
+		{
+			"2018-02-01": {
+				"event_description": "Snow event, mainly in the northwest and on mountain peaks",
+				"start": 1517472000,
+				"end": 1517557800
+			}
+		},
+		{
+			"2017-12-21": {
+				"event_description": "Prolonged period of snow and strong winds",
+				"start": 1513882800,
+				"end": 1514274600
+			}
+		},
+		{
+			"2017-12-17": {
+				"event_description": "Several inches of snow fall with strong winds for areas outside of the south",
+				"start": 1513411200,
+				"end": 1513583400
+			}
+		}
+	]
+}
